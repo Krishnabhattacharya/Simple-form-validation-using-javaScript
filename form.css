@@ -1,0 +1,41 @@
+body{
+background-color: rgb(44, 44, 168);
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+h2{
+    color: rgb(9, 9, 9);
+}
+#form_vali{
+    background-color: aliceblue;
+    padding: 50px;
+    text-align: center;
+}
+#blank1{
+height: 3px;
+}
+#user{
+    padding: 10px;
+}
+#pass{
+    padding: 10px;
+}
+#btn{
+    padding: 5px;
+    background-color: rgb(194, 129, 255);
+    border: none;
+}
+#usererror{
+  margin: 0px;
+    color: red;
+    text-align: left;
+    font-size: 10px;
+}
+#passerror{
+    margin: 0px;
+      color: red;
+      text-align: left;
+      font-size: 10px;
+  }
